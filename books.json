@@ -1,37 +1,5 @@
-[
-  {
-    "title": "Consolewars",
-    "category": "Histórico",
-    "folder": "Consolewars"
-  },
-  {
-    "title": "Almanaque da Monica 003 A",
-    "category": "HQ",
-    "folder": "Almanaque da Monica 003 A"
-  },
-  {
-    "title": "Almanaque da Mônica de Natal 007",
-    "category": "HQ",
-    "folder": "Almanaque da Mônica de Natal 007"
-  },
-  {
-    "title": "Calderon Volume 1",
-    "category": "HQ",
-    "folder": "Calderon Volume 1"
-  },
-  {
-    "title": "Lost Canvas 39",
-    "category": "Mangá",
-    "folder": "Lost Canvas 39"
-  },
-  {
-    "title": "Calderon Volume 1",
-    "category": "Outros",
-    "folder": "Calderon Volume 1"
-  },
-  {
-    "title": "revista_jogoveio_pocket01_50_Jogos_de_Luta",
-    "category": "Revista",
-    "folder": "revista_jogoveio_pocket01_50_Jogos_de_Luta"
-  }
-]
+{
+  "title": "Lost Canvas 39",
+  "category": "Mangá",
+  "zip": "https://drive.google.com/file/d/1j2Jv8G-mlDci35qSmZ3W_pgnn_Ogov2z/view"
+}
